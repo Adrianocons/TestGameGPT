@@ -7,8 +7,16 @@ For Windows-specific setup instructions, see [WINDOWS_SETUP.md](WINDOWS_SETUP.md
 
 ## Running
 
+CLI demo:
+
 ```bash
 python -m polythorogue.cli
+```
+
+Graphical interface (requires pygame):
+
+```bash
+python -m polythorogue.gui
 ```
 
 ## Testing
